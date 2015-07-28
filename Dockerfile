@@ -1,4 +1,4 @@
-FROM tleyden5iwx/caffe-gpu-master
+FROM ubuntu:14.04
 MAINTAINER Michael Bartoli <michael.bartoli@pomona.edu>
 
 RUN apt-get update
